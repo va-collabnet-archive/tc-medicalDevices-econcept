@@ -16,7 +16,7 @@
 
 	<properties>
 		<sourceData.version>20140731</sourceData.version>
-		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.25</org.ihtsdo.wb-toolkit.version>
+		<org.ihtsdo.wb-toolkit.version>2.32-trek-no-jini-va-1.26</org.ihtsdo.wb-toolkit.version>
 		<data.relativeInputDir>/RF2Release/Full/</data.relativeInputDir>
 		<import.path.uuid>788add5c-0ca1-5527-95d1-9789e956b349</import.path.uuid> <!-- "Medical Devices Path" -->
 		<import.module.uuid>5b1a24b5-e23a-5860-aa1d-dbe8a1dca28a</import.module.uuid> <!-- "GMDN Medical Devices module" -->
